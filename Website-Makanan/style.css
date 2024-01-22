@@ -1,0 +1,53 @@
+h1 {
+    text-align: center;
+}
+div.tex
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #ff0000;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    background-color: #ff0000;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    width: 400px;
+    text-align: center;
+}
+
+h1, h2, p {
+    color: #333;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+    color: #555;
+}
+
+img {
+    width: 100%;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+
+ol {
+    text-align: left;
+    margin-left: 20px;
+}
+
+.step {
+    margin-bottom: 15px;
+    color: #777;
+}
